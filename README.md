@@ -17,10 +17,10 @@ in the source code.. you'll notice the comments where you need to adjust path fo
     Turn off Real-time protection on your anti-virus application.
   </li>
   <li>
-    Add This file as an Exclusion (exception) from defender threat scan.
+    Add This file path as an Exclusion (exception) from defender threat scan.
   </li>
-  * not doing above points will cause the file to be erased.
+  * not doing above will cause the file to be erased.
 </ol>
 <h4>It is completely safe and you can delete it in any point.</h6>
 
-Lastly, run the code and start typing, you'll see the file is saved in desired folder repeatedly as you type. Enjoy :]
+Lastly, run the code and start typing, you'll see the file is saved in desired folder repeatedly as you type. <i>Enjoy :]</i>
