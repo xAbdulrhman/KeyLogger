@@ -1,5 +1,5 @@
 # KeyLogger
-<p><b><u>Disclaimer! This is only for learning purposes, I'm not responsible for any malicious activity</u></b></p>
+<p><b><U>Disclaimer! This is only for learning purposes, I'm not responsible for any malicious activity</U></b></p>
 
 <h2>What is KeyLogger?</h2>
 <p>KeyLoggers are a particularly insidious type of spyware that can record and steal consecutive keystrokes such as <b>Passwords</b>, <b>Usernames</b>, <b>SSN #'s</b>, <b>Credit Card #'s</b> (and much more) that the user enters on a device.</p>
@@ -23,4 +23,4 @@ in the source code.. you'll notice the comments where you need to adjust path fo
 </ol>
 <h4>It is completely safe and you can delete it in any point.</h6>
 
-Lastly, run the code and start typing, you'll see the file is been saved in desired folder repeatedly as you type. Enjoy :]
+Lastly, run the code and start typing, you'll see the file is saved in desired folder repeatedly as you type. Enjoy :]
