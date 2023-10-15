@@ -19,4 +19,4 @@ in the source code.. you'll notice the comments where you need to adjust the rou
 <h6>It is completely safe and you can delete it in any point.</h6>
 
 Lastly, run the code and start typing, you'll see the file is been saved repeatedly as you type. Enjoy :]
-<b><i>!Disclaimer. This is only for learning purposes, I'm not responsible for any malicious activity</i></b>
+<p><b><i>!Disclaimer. This is only for learning purposes, I'm not responsible for any malicious activity</i></b></p>
