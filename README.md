@@ -1,5 +1,5 @@
 # KeyLogger
-<p><b><i>!Disclaimer. This is only for learning purposes, I'm not responsible for any malicious activity</i></b></p>
+<p><b><u>Disclaimer! This is only for learning purposes, I'm not responsible for any malicious activity</u></b></p>
 
 <h2>What is KeyLogger?</h2>
 <p>KeyLoggers are a particularly insidious type of spyware that can record and steal consecutive keystrokes such as <b>Passwords</b>, <b>Usernames</b>, <b>SSN #'s</b>, <b>Credit Card #'s</b> (and much more) that the user enters on a device.</p>
