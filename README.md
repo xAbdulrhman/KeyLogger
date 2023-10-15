@@ -9,6 +9,10 @@ in the source code.. you'll notice the comments where you need to adjust the rou
 <p>You need to know that these few line will be detected from your anti-virus, so you'll need to do the following:</p>
 <ol>
   <li>
+    Having "pynput" module is a must, to download it use the command <u><b>pip3 install pynput</b></u> in your CMD/Bash.
+    ```you must download pip3 if you don't have it```
+  </li>  
+  <li>
     Turn off Real-time protection on your anti-virus application.
   </li>
   <li>
